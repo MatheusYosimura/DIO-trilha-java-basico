@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1723758685586"/>
+    <entry loc="/home/lym/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_22.0.1.v20240426-1149" stamp="1715149316451"/>
+    <entry loc="/home/lym/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_22.0.1.v20240426-1149/jre" stamp="1715149316451"/>
+    <entry loc="/home/lym/.sdkman/candidates/java/22-open" stamp="1711648828000"/>
+</dirs>
